@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "username": "dudung",
+    "email": "dudung@mail.com",
+    "password": "password",
+    "role": "user",
+    "phoneNumber": "082249861400",
+    "address": "Jl. Dudung Desa Citaman RT 07 RW 06"
+  }
+]

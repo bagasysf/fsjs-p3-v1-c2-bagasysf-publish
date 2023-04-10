@@ -1,0 +1,164 @@
+{
+  "users": [
+    {
+      "id": 1, 
+      "username": "dudung", 
+      "email": "dudung@mail.com",
+      "password": "password",
+      "role": "user",
+      "phoneNumber": "082249861400",
+      "address": "Jl. Dudung Desa Citaman RT 07 RW 06"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Kenapa Kita Harus Menjaga Rahasia?",
+      "slug": "kenapa-kita-harus-menjaga-rahasia",
+      "content": "Kenapa kita harus menjaga rahasia? Seberapa pentingnya? Dalil-dalil berikut akan jadi penjelas, kenapa kita harus menjaga rahasia.",
+      "imgurl": "https://rumaysho.com/wp-content/uploads/2022/07/menjaga_rahasia_rumaysho-730x411.jpg",
+      "createdAt": "2023-02-07",
+      "updatedAt": "2023-02-13",
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "title": "Kita Bisa Raih Ketenangan dengan Membaca Al-Qur’an, Termasuk pula Surah Al-Kahfi",
+      "slug": "kita-bisa-raih-ketenangan-dengan-membaca-al-quran-termasuk-pula-surah-al-kahfi",
+      "content": "Kita bisa raih ketenangan dengan membaca Al-Qur'an, termasuk surah Al-Kahfi.",
+      "imgurl": "https://rumaysho.com/wp-content/uploads/2023/01/ketenangan_surah_al_kahfi_rumaysho-730x411.jpg",
+      "createdAt": "2023-02-09",
+      "updatedAt": "2023-02-13",
+      "categoryId": 2
+    },
+    {
+      "id": 3,
+      "title": "Tsalatsatul Ushul: Penjelasan Ringkas Ihsan",
+      "slug": "tsalatsatul-ushul-penjelasan-ringkas-ihsan",
+      "content": "Apa itu ihsan? Ini masih terkait dengan penyebutan rukun Islam dan iman yang disebutkan oleh Syaikh Muhammad bin 'Abdul Wahhab",
+      "imgurl": "https://rumaysho.com/wp-content/uploads/2022/01/rukun_ihsan-_tsalatsatul_ushul_rumaysho-730x411.jpg",
+      "createdAt": "2023-02-11",
+      "updatedAt": "2023-02-13",
+      "categoryId": 3
+    },
+    {
+      "id": 4,
+      "title": "Cara Agar Tidak Terpengaruh Berita HOAX",
+      "slug": "cara-agar-tidak-terpengaruh-berita-hoax",
+      "content": "Bagaimana cara menyikapi berita hoax? HOAX atau hoaks adalah informasi bohong.",
+      "imgurl": "https://rumaysho.com/wp-content/uploads/2021/07/menyikapi_berita_hoax_rumaysho-730x411.jpg",
+      "createdAt": "2023-02-10",
+      "updatedAt": "2023-02-13",
+      "categoryId": 4
+    },
+    {
+      "id": 5,
+      "title": "Bolehkah muslim ikut tren childfree (keputusan menikah tanpa memiliki anak)?",
+      "slug": "bolehkah-muslim-ikut-tren-childfree-keputusan-menikah-tanpa-memiliki-anak",
+      "content": "Bolehkah muslim ikut tren childfree (keputusan menikah tanpa memiliki anak)?",
+      "imgurl": "https://rumaysho.com/wp-content/uploads/2021/08/childfree_tren_menikah_anak_rumaysho-730x411.jpg",
+      "createdAt": "2023-02-10",
+      "updatedAt": "2023-02-13",
+      "categoryId": 5
+    },
+    {
+      "id": 6,
+      "title": "Dua Cara Pokok untuk Sukses dalam Belajar: Mendengarkan Saksama dan Fokus Memikirkan",
+      "slug": "dua-cara-pokok-untuk-sukses-dalam-belajar-mendengarkan-saksama-dan-fokus-memikirkan",
+      "content": "Cara sukses dalam belajar: Mendengarkan dan Fokus",
+      "imgurl": "https://rumaysho.com/wp-content/uploads/2021/09/mendengarkan_fokus_belajar_rumaysho-730x411.jpg",
+      "createdAt": "2023-02-10",
+      "updatedAt": "2023-02-13",
+      "categoryId": 6
+    },
+    {
+      "id": 7,
+      "title": "Buku Gratis: Siap Naik Pelaminan",
+      "slug": "buku-gratis-siap-naik-pelaminan",
+      "content": "Buku ini berisi bahasan pertimbangan untuk menikah, dan kelanjutannya. Yuk segera download.",
+      "imgurl": "https://rumaysho.com/wp-content/uploads/2020/02/2020-02-27-15.07.17-640x361.jpg",
+      "createdAt": "2023-02-12",
+      "updatedAt": "2023-02-13",
+      "categoryId": 7
+    },
+    {
+      "id": 8,
+      "title": "Faedah Surat An-Nuur #47: Adab Makan di Rumah Kerabat dan Memberi Salam",
+      "slug": "faedah-surat-an-nuur-47-adab-makan-di-rumah-kerabat-dan-memberi-salam",
+      "content": "Beginilah adab makan dan memberi salam terkait kerabat.",
+      "imgurl": "https://rumaysho.com/wp-content/uploads/2022/04/adab_makan_salam_rumaysho-730x411.jpg",
+      "createdAt": "2023-02-07",
+      "updatedAt": "2023-02-13",
+      "categoryId": 8
+    },
+    {
+      "id": 9,
+      "title": "14 Cobaan Berat pada Nabi Yusuf Saat Digoda Zulaikha",
+      "slug": "14-cobaan-berat-pada-nabi-yusuf-saat-digoda-zulaikha",
+      "content": "Bayangkan bagaimana jika 14 cobaan pada Nabi Yusuf ini kita yang mengalaminya, apakah kita bisa selamat dari zina?",
+      "imgurl": "https://rumaysho.com/wp-content/uploads/2017/04/pelajaran_kisah_nabi_yusuf_rumaysho-730x411.jpg",
+      "createdAt": "2023-02-11",
+      "updatedAt": "2023-02-13",
+      "categoryId": 9
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Akhlak",
+      "createdAt": "2023-02-12",
+      "updatedAt": "2023-02-12"
+    },
+    {
+      "id": 2,
+      "name": "Amalan",
+      "createdAt": "2023-02-12",
+      "updatedAt": "2023-02-12"
+    },
+    {
+      "id": 3,
+      "name": "Aqidah",
+      "createdAt": "2023-02-12",
+      "updatedAt": "2023-02-12"
+    },
+    {
+      "id": 4,
+      "name": "Jalan Kebenaran",
+      "createdAt": "2023-02-12",
+      "updatedAt": "2023-02-12"
+    },
+    {
+      "id": 5,
+      "name": "Keluarga",
+      "createdAt": "2023-02-12",
+      "updatedAt": "2023-02-12"
+    },
+    {
+      "id": 6,
+      "name": "Management Qolbu",
+      "createdAt": "2023-02-12",
+      "updatedAt": "2023-02-12"
+    },
+    {
+      "id": 7,
+      "name": "Tafsir Al Qur'an",
+      "createdAt": "2023-02-12",
+      "updatedAt": "2023-02-12"
+    },
+    {
+      "id": 8,
+      "name": "Teladan",
+      "createdAt": "2023-02-12",
+      "updatedAt": "2023-02-12"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "postId": 1,
+      "name": "buku gratis",
+      "createdAt": "2023-02-13",
+      "updatedAt": "2023-02-13"
+    }
+  ]
+}

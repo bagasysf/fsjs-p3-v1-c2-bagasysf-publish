@@ -1,0 +1,14 @@
+version: '3.9'
+services:
+  orchestrator-graphql:
+    build: ./orchestrator-graphql
+    ports:
+      - '80:4000'
+  users:
+    build: ./services/users
+    ports:
+      - '4002:4002'
+  app:
+    build: ./services/app
+    ports:
+      - '4001:4001'
